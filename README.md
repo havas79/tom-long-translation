@@ -1,4 +1,4 @@
-# Tom Long – The Time Adventure (1994) · Translation Project
+# Tom Long - The Time Adventure (1994) – Translation Project
 
 Reverse engineering of the German DOS adventure *Tom Long – The Time Adventure* and the tools built to
 translate it into English and edit its graphics.
