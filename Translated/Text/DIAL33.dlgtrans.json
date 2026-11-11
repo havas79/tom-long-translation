@@ -1,0 +1,10 @@
+{
+  "0:npc:-1": "Wow, looks like we've got another ingredient for the potion!",
+  "0:choice:0": "Your powers of observation are remarkable, Merlin.",
+  "1:npc:-1": "Now, all that's missing is the extra-large tomato.",
+  "1:choice:0": "That can't be far away, either.",
+  "2:npc:-1": "What do you mean?",
+  "2:choice:0": "It wouldn't surprise me if Don Tomato suddenly showed up here.",
+  "3:npc:-1": "Oh, your dreadful adversary?!",
+  "3:choice:0": "Precisely. Now, how do I get him into the potion? Hmmm..."
+}

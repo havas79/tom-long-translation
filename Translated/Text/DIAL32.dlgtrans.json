@@ -1,0 +1,10 @@
+{
+  "0:npc:-1": "Ah right, ahem, what do we have here?",
+  "0:choice:0": "This is an eggshell.",
+  "1:npc:-1": "And what should I do with that? Do I look like your personal compost pile?! ",
+  "1:choice:0": "No, I meant it's a dragon's eggshell. Well, sort of.",
+  "2:npc:-1": "What kind of dragon does this shell come from?",
+  "2:choice:0": "From one that loves to devour hardtack.",
+  "3:npc:-1": "Unfortunately, we're still missing the silver.",
+  "3:choice:0": "I shall bring that as well, oh mystical master!"
+}

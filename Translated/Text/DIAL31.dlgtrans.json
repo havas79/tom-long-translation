@@ -1,0 +1,10 @@
+{
+  "0:npc:-1": "Ah right, ahem, what do we have here?",
+  "0:choice:0": "This is a rivet.",
+  "1:npc:-1": "What?! Is this some kind of joke?!",
+  "1:choice:0": "No, it's a silver rivet. For the magic potion.",
+  "2:npc:-1": "Oh, I see. Very well then, the silver in this rivet should be enough. How about the dragon egg...?",
+  "2:choice:0": "You shall have it soon enough, wisest of the wise!",
+  "3:npc:-1": "Very well. You're a brave lad, Tom!",
+  "3:choice:0": "At least someone's on my side!"
+}

@@ -1,0 +1,17 @@
+{
+  "0:npc:-1": "What do you want, human scum? Har har!",
+  "0:choice:0": "Oh Don Tomato, why don't you try the potion inside this cauldron?",
+  "1:npc:-1": "Why should I? Why are you so anxious for me to?",
+  "1:choice:0": "Should I assist you with your plans, I hope for lenient treatment, oh great Tomato!",
+  "1:choice:1": "No I'm not - do whatever the heck you want, you creep!",
+  "2:npc:-1": "Well look at that, har har! Lost your nerve, eh? Har har har!",
+  "2:choice:0": "Indeed, oh Don Tomato. I want to be your devoted servant!",
+  "2:choice:1": "Lumpy blobs like you usually serve as my punching bags!",
+  "3:npc:-1": "And you want me to taste the potion?",
+  "3:choice:0": "Yes, for it bestows mythical powers and you are going to need them!",
+  "3:choice:1": "Yes, and hopefully you'll choke on it, you blob!",
+  "4:npc:-1": "You're right about that, har har! All power belongs to ME! Hand over the potion!",
+  "4:choice:0": "Well, this should be interesting...",
+  "5:npc:-1": "Still hoping against hope, eh? Har har har har har!",
+  "5:choice:0": "Of course! Games like this always have a happy ending!"
+}

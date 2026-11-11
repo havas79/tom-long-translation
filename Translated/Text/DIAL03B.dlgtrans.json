@@ -1,0 +1,9 @@
+{
+  "0:npc:-1": "What do you want now?",
+  "0:choice:0": "Are you going to keep looking for the manual for much longer?",
+  "0:choice:1": "Since you can't find the manual, why don't you just give up?",
+  "1:npc:-1": "I'm going to search until I find it... even if it takes hours!",
+  "1:choice:0": "Or days... or even weeks...",
+  "2:npc:-1": "Never! Not me! I'm gonna search until I turn gray... or until I find it!",
+  "2:choice:0": "Have fun turning gray..."
+}

@@ -1,0 +1,13 @@
+{
+  "0:npc:-1": "What is it now?",
+  "0:choice:0": "Can't I just have the key to the mailbox so I can take that package?",
+  "0:choice:1": "Look out, there's a three-headed monkey behind you!",
+  "0:choice:2": "Surely you have somewhere very important to be right now, don't you?",
+  "1:npc:-1": "No!",
+  "1:choice:0": "Alright, then!",
+  "2:npc:-1": "The only monkey here is the one standing in front of me!",
+  "2:choice:0": "What, you're not falling for this brilliant distraction?",
+  "3:npc:-1": "Save your breath, Tom. You're not going to trick me into leaving!",
+  "3:choice:0": "Well, don't you have any mercy at all?",
+  "3:choice:1": "Not even if I remind you that there's a three-headed monkey behind you?"
+}

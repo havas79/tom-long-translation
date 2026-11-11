@@ -1,0 +1,16 @@
+{
+  "0:npc:-1": "Har har, I've got the human child!",
+  "0:choice:0": "How? What? What is going on here?",
+  "1:npc:-1": "She's going to be extremely useful to me, har har!",
+  "1:choice:0": "What do you want with her, you stupid loudmouth?!",
+  "2:npc:-1": "She can explain to me a few things about the human communication networks...",
+  "2:choice:0": "So what?",
+  "3:npc:-1": "Using this information, I can unleash a great computer virus onto humanity...",
+  "3:choice:0": "But why?",
+  "4:npc:-1": "So that I can rule the world, har har!",
+  "4:choice:0": "What a worn-out cliché!",
+  "5:npc:-1": "Just you wait! Har har!",
+  "5:choice:0": "Return Helen immediately!",
+  "6:npc:-1": "Har har!",
+  "6:choice:0": "Great! I just argued with a computer tomato!"
+}

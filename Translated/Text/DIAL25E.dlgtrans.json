@@ -1,0 +1,16 @@
+{
+  "0:npc:-1": "Oh wow, what a lovely pair of tights! Yes, this is exactly the right thing!",
+  "0:choice:0": "I'm glad. Now do me a favor...",
+  "1:npc:-1": "Yes! I'll make sure that you get to speak with one of the most famous Western heroes of all time...",
+  "1:choice:0": "Very good, very good!",
+  "2:npc:-1": "The incredible, legendary, extravagant, miraculous... GREENHORN-JIM!!!",
+  "2:choice:0": "....",
+  "3:npc:-1": "What's wrong? Why isn't he showing up?",
+  "3:choice:0": "How should I know?",
+  "4:npc:-1": "Did I miss a title? He's kind of sensitive about that sort of thing. Hmm... incredible, legendary...",
+  "4:choice:0": "... extravagant, miraculous...",
+  "5:npc:-1": "Miraculous... There was one more thing... Aha, got it!",
+  "5:choice:0": "Well then, lights off, spotlight on!",
+  "6:npc:-1": "... AND HIS ONE-OF-A-KIND BOOMSTICK!!!!! APPLAUSE!!!!",
+  "6:choice:0": "Ta-da-da-da, ta-da-da-da-daa..."
+}

@@ -1,0 +1,23 @@
+{
+  "0:npc:-1": "Well, have you reconsidered?",
+  "0:choice:0": "Nope, I just felt like having another chat!",
+  "0:choice:1": "Yes, I'm mustering all my courage and I'm going to r-r-rescue Helen!",
+  "1:npc:-1": "You coward! Don't talk to me, it might be contagious!",
+  "1:choice:0": "Why, are you sick?",
+  "2:npc:-1": "I knew you would do it. Okay, listen up, here's how this is going down:",
+  "2:choice:0": "Since when do you call the shots around here?",
+  "3:npc:-1": "You just touch the image too, and you'll be drawn into the game world.",
+  "3:choice:0": "Hand over the snorkel!",
+  "4:npc:-1": "Once you find Helen, get hold of a telephone inside the game and call here.",
+  "4:choice:0": "Uh, what's the number again...?",
+  "5:npc:-1": "I will then get you out via the modem.",
+  "5:choice:0": "That sounds too good to be true.",
+  "6:npc:-1": "In addition, I'll make sure to save a state of you once you are inside the game.",
+  "6:choice:0": "Are we gonna need a memory expansion for that?",
+  "7:npc:-1": "It's for your own safety. Don't ask for the technical details now. I'm just the programmer...",
+  "7:choice:0": "I'm well aware of that already.",
+  "8:npc:-1": "And take whatever you want with you. Who knows what you might need in there...",
+  "8:choice:0": "What, you don't know either?",
+  "9:npc:-1": "Good luck, Tom. Give Don Tomato a good kick for me: I never liked the guy!",
+  "9:choice:0": "I'll pass that along to him."
+}

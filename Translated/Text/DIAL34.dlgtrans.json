@@ -1,0 +1,12 @@
+{
+  "0:npc:-1": "Hello, Tom!",
+  "0:choice:0": "He - he - help! What is going on?!",
+  "1:npc:-1": "It's me, Hardy, the programmer!",
+  "1:choice:0": "What are you doing? What happens now?",
+  "2:npc:-1": "Now that the magic potion is complete, Helen is also automatically healed.",
+  "2:choice:0": "Oh, the wonders of modern technology. Now what?",
+  "3:npc:-1": "She is waiting for you by the phone at..... *glitch*..... *static*.....",
+  "3:choice:0": "Phone? Oh right, we have to get out somehow, after all. Hello, Hardy?",
+  "4:npc:-1": "..... *static*..... bad transmission..... *crackle*....",
+  "4:choice:0": "Guess that's it, then. Now, where was that phone again? I have to find it!"
+}

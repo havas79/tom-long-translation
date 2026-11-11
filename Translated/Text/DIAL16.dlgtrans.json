@@ -1,0 +1,18 @@
+{
+  "0:npc:-1": "Tom?",
+  "0:choice:0": "Helen?",
+  "1:npc:-1": "Tom!",
+  "1:choice:0": "Helen!",
+  "2:npc:-1": "Tom!!",
+  "2:choice:0": "Yeah, we've been through all that already. Can we just leave?",
+  "3:npc:-1": "Sure, but what on earth is going on here?",
+  "3:choice:0": "Hell is about to break loose, so hurry!",
+  "4:npc:-1": "Where are we? All I remember is a sneering, grinning tomato...",
+  "4:choice:0": "Helen, we've got to scram! Robin Hood is waiting outside!",
+  "5:npc:-1": "Robin Hood?",
+  "5:choice:0": "Yeah, the Sheriff won't be stuck in the well forever...",
+  "6:npc:-1": "The Sheriff?",
+  "6:choice:0": "... and the guards will get tired of playing Ludo sooner or later...",
+  "7:npc:-1": "I must be dreaming!",
+  "7:choice:0": "And it'll turn into a nightmare if we don't get a move on!"
+}

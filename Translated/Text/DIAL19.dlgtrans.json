@@ -1,0 +1,18 @@
+{
+  "0:npc:-1": "Yikes, there actually is a rat in there!",
+  "0:choice:0": "I told you so!",
+  "1:npc:-1": "What a foul beast!",
+  "1:choice:0": "It looks kind of starved.",
+  "2:npc:-1": "It's not going to devour our entire food supply, is it?",
+  "2:choice:0": "Wanna bet?",
+  "3:npc:-1": "We have to do something!",
+  "3:choice:0": "Good luck with that. The beast looks pretty vicious.",
+  "4:npc:-1": "I'm not going in there, I'm terrified of rats!",
+  "4:choice:0": "Well, not me.",
+  "5:npc:-1": "You mean, you will...?",
+  "5:choice:0": "Sure.",
+  "6:npc:-1": "Right now?",
+  "6:choice:0": "Yep.",
+  "7:npc:-1": "All right, go for it then. In the meantime, I'll keep scrubbing the deck. I can't bear to look. Good luck!",
+  "7:choice:0": "This isn't about luck."
+}
