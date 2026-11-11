@@ -1,0 +1,7 @@
+For the images:
+Open the folder containing the game files with the Asset Editor, select the image you want to replace and choosing "Import PNG" replace it with a translated one. 
+Finally, click on "Save changed game files" to export the translated/edited game files.
+
+For text:
+Copy all the *.json files inside the folder containing the game files, open this folder with the Translator (all translations should now be applied),
+edit if needed and finally, choose "Build translated files" to export the translated/edited game files.
